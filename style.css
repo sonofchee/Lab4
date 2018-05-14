@@ -1,0 +1,150 @@
+
+body
+
+.block {
+  width: 360px;
+  padding: 8% 0 0;
+  margin: auto;
+  
+}
+.form8 {
+  position: absolute;
+  top: 120px;
+  left: 0;
+  width: 300px;
+  height: 500px;
+  padding: 10px;
+  text-align: center;
+  background: #FFFFFF;
+}
+.form6 {
+  position: absolute;
+  top: 145px;
+  left: 0;
+  width: 300px;
+  height: 500px;
+  padding: 10px;
+  text-align: center;
+  background: #FFFFFF;
+}
+.form5 {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 5000px;
+  margin-top: -115px;
+  margin-right:-250px;
+  margin-left:-250px;
+  padding: 178px;
+  text-align: center;
+}
+.form {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 500px;
+  margin-top: -115px;
+  margin-right:-100px;
+  margin-left:-100px;
+  padding: 150px;
+  text-align: center;
+}
+.form7 {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 5000px;
+  margin-top: -220px;
+  margin-right:-500px;
+  margin-left:-500px;
+  padding: 10px;
+  text-align: center;
+}
+.form3 {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 5000px;
+  margin-top: -115px;
+  margin-right:-500px;
+  margin-left:-500px;
+  padding: 10px;
+  text-align: center;
+}
+.form4 {
+  position: absolute;
+  top: 145px;
+  right: 0;
+  width: 300px;
+  height: 500px;
+  padding: 10px;
+  text-align: center;
+  background: #FFFFFF;
+}
+
+.form2 {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  max-width: 360px;
+  margin-top: -60px;
+  margin-right:1px;
+  padding: 5px;
+  text-align: center;
+}
+.form2 h1{
+	color: black;
+	margin: 0 0 2px;
+}
+.form2 button{
+	margin-top: 0px;
+	padding: 2px;
+}
+
+.dropbtn {
+    background-color: #3B5998;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+.dropdown {
+    position: absolute;
+    display: inline-block;
+	top: 245px;
+}
+
+.dropdown2 {
+    position: absolute;
+    display: inline-block;
+	top: 345px;
+}
+
+.dropdown3 {
+    position: absolute;
+    display: inline-block;
+	top: 445px;
+}
+
+.dropbtn2 {
+    background-color: #0084b4;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+} 
+
+.dropbtn3 {
+    background-color: #CC181E;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}
+
+
+body {
+  background: #EDC53E;
+  font-family: "Calibri", sans-serif;   
+}
